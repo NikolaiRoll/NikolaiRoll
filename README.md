@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NikolaiRoll
+- 👀 I’m interested in education myself on current tech trends.
+- 🌱 I’m currently learning Next.js
